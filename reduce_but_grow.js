@@ -18,8 +18,9 @@ function grow(x) {
 	return output
 }
 
+/* My node test case
 console.log(grow([1, 2, 3]))
-
+*/
 
 
 
